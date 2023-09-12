@@ -1,1 +1,1 @@
-This application live in here: https://timer-todo-class.vercel.app/
+This application live in here: https://todo-class-teal.vercel.app/
